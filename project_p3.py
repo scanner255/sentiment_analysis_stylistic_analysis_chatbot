@@ -1,3 +1,4 @@
+#imports
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.naive_bayes import GaussianNB
 import pandas as pd
